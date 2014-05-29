@@ -22,3 +22,4 @@ hi Pmenu ctermbg=8
 hi PmenuSel ctermbg=1
 hi PmenuSbar ctermbg=0
 map <C-n> :NERDTreeToggle<CR>
+au BufNewFile,BufReadPost *.coffee setlocal sw=2
