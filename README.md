@@ -10,10 +10,13 @@ To install:
 
 Generic vim addons
 
-- pathogen
+- pathogen (vim dependency mgmt)
 - ctrlp.vim		(a fuzzy file finder)
 - neocomplcache.vim	(completion for a handful of languages)
 - vim-sensible
+- vim-coffee-script (syntax highlighting)
+- two space tabs for coffeescript
+- php syntax
 
 a whole bunch of clojure stuff:
 - vim-clojure-static	
