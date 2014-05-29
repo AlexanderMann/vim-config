@@ -5,7 +5,7 @@ I'm now managing my vim configuration in git. I wish I'd done this along time ag
 
 To install:
 
-- check out the repo into .vim
+- check out the repo into ~/.vim
 - softlink the vimrc to ~/.vimrc
 
 Generic vim addons
